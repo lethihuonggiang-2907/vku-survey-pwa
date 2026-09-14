@@ -1,0 +1,25 @@
+{
+  "name": "Khảo Sát Việc Làm Sinh Viên VKU",
+  "short_name": "Khảo Sát Việc Làm",
+  "description": "Ứng dụng phỏng vấn thực địa khảo sát nhu cầu việc làm của sinh viên, hoạt động offline",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F3FB",
+  "theme_color": "#6C4FD6",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
